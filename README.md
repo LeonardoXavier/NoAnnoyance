@@ -21,7 +21,7 @@ Supported alerts:
 
 + Silence siri alert tones
 
-+ Disable updated app dot
++ Disable "updating" app dot
 
 + Disable game center welcome banner
 
