@@ -188,7 +188,7 @@
 			<key>PostNotification</key>
 			<string>com.pNre.noannoyance/settingsupdated</string>
 			<key>label</key>
-			<string>Updated dot</string>
+			<string>"Updating" dot</string>
 			<key>defaults</key>
 			<string>com.pNre.noannoyance</string>
 		</dict>
